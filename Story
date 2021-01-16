@@ -1,0 +1,7 @@
+story.txt
+
+story-joe-edit.txt
+
+story-joe-edit-review.txt
+yeni-düğme-oluştur.txt
+
